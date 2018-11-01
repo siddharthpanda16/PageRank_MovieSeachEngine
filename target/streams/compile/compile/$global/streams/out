@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mD:\GitHub Projects\PageRank\src\main\scala\PageRank.scala:56:19: value saveAsTextFile is not a member of Array[(String, Double)][0m
+[0m[[0m[31merror[0m] [0m[0m      finalOutput.saveAsTextFile(args(2))[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

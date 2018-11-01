@@ -1,0 +1,71 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging D:\GitHub Projects\PageRank\target\scala-2.11\pagerank_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\PageRank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$10.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$10.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$4$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\PageRank$$anonfun$main$1$$anonfun$4$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$17.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$17.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$5$$anonfun$apply$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$5$$anonfun$apply$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$11.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$11.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\PageRank$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$14.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$14.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$16.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$16.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\PageRank$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$7$$anonfun$apply$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$7$$anonfun$apply$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\PageRank$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\PageRank$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\PageRank$$anonfun$main$1$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$4$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$4$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\PageRank$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\PageRank$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$4$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$4$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$12.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$12.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$13.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$13.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MoviePlot$$anonfun$15.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\GitHub Projects\PageRank\target\scala-2.11\classes\MoviePlot$$anonfun$15.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
